@@ -1,0 +1,2 @@
+C:\Users\sethu\eclipse-workspace\nopCommerce_Cucumber>
+mvn clean install
